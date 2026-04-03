@@ -55,7 +55,7 @@ This project demonstrates a **modern backend architecture for social media appli
 - Postman
 - Git & GitHub
 
----
+--- 
 
 # 📂 Project Structure
 
