@@ -30,7 +30,7 @@ This project demonstrates a **modern backend architecture for social media appli
 - Organized routes and models
 - Scalable backend structure
 
---- 
+---  
 
 # 🛠 Tech Stack
 
