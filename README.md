@@ -4,7 +4,7 @@ A full-stack **Social Media Platform** developed using **Node.js, Express.js, Mo
 The application allows users to create accounts, share posts, interact through likes and comments, and follow other users.
 
 This project demonstrates a **modern backend architecture for social media applications**, including authentication, REST APIs, and database integration.
-
+ 
 ---                                  
   
 # 🚀 Features 
