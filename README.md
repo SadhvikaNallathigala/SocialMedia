@@ -6,7 +6,7 @@ The application allows users to create accounts, share posts, interact through l
 This project demonstrates a **modern backend architecture for social media applications**, including authentication, REST APIs, and database integration.
  
 ---                                   
-  
+   
 # 🚀 Features 
  
 ### 🔐 User Authentication 
