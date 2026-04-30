@@ -7,7 +7,7 @@ This project demonstrates a **modern backend architecture for social media appli
 
 ---                                  
 
-# 🚀 Features
+# 🚀 Features 
 
 ### 🔐 User Authentication
 - User registration and login
