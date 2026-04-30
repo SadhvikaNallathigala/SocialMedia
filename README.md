@@ -9,7 +9,7 @@ This project demonstrates a **modern backend architecture for social media appli
 
 # 🚀 Features 
  
-### 🔐 User Authentication
+### 🔐 User Authentication 
 - User registration and login
 - Password hashing using **bcrypt**
 - Secure authentication using **JWT tokens**
