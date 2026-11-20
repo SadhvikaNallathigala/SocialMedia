@@ -1,4 +1,4 @@
-# 📱 Social Media Platform  
+**# 📱 Social Media Platform  
 
 A full-stack **Social Media Platform** developed using **Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript**.  
 The application allows users to create accounts, share posts, interact through likes and comments, and follow other users.
@@ -201,3 +201,4 @@ https://github.com/SadhvikaNallathigala
 # 📜 License
 
 This project was developed for educational and internship purposes.
+**
